@@ -1,11 +1,11 @@
 {
-  "name": "04-calculadora-nota-express",
+  "name": "crud_escola",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+"scripts": {
+  "start": "nodemon index.js"
+},
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
